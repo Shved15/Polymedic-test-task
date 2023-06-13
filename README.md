@@ -8,7 +8,7 @@ The project is a RESTful API for managing university. It allows creating, retrie
 1. Install Docker or docker desktop if it is not already installed.
 2. Clone rep
 ```bash
-git clone ....
+git clone https://github.com/Shved15/Polymedic-test-task.git
 ```
 4. Create the .env  file and configure the database connection parameters just like .env-sample file.
 
