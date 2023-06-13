@@ -9,6 +9,7 @@ The project is a RESTful API for managing university. It allows creating, retrie
 2. Clone rep
 ```bash
 git clone https://github.com/Shved15/Polymedic-test-task.git
+cd Polymedic-test-task
 ```
 4. Create the .env  file and configure the database connection parameters just like .env-sample file.
 
